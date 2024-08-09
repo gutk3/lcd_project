@@ -138,7 +138,6 @@ int main(void)
 
 	  	 read_command();  //<<<<<<<<****************EXECUTES_RECEIVED_COMMANDS****************//
 
-
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */
